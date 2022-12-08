@@ -1,5 +1,5 @@
 ---
-title: Toot_2_page
+title: Tool_2_page
 date: 2022/12/12
 description: Use this tool.
 tag: tool
