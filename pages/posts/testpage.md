@@ -6,7 +6,7 @@ tag: tool
 author: Auditing Utils
 ---
 
-# Tool 1: Your page paths depend on external data
+# Tool 1: You can use this tool
 
 Fist tool.
 
