@@ -7,10 +7,15 @@ date: 2022-12-12
 # Auditing Utils
 
 Hey, we are a EVM Smart Contract Security team gathering here some usefull links, tools and infos about audits and contests.
+
+The current date is {{current_date}}
+
 ---
 
 - Twitter [@gituser6hij](https://twitter.com/gituser6hij)
 - GitHub [@gituser6hij](https://github.com/gituser6hij)
 - Email dev.levallois@gmail.com
 
-The current date is `%d`
+import datetime
+
+current_date = datetime.datetime.now().strftime("%B %d, %Y")
